@@ -1,4 +1,4 @@
 #!/bin/bash
 
 #Install shellinabox
-apt-get install shellinabox
+apt-get update && apt-get install openssl shellinabox
