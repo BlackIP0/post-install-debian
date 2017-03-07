@@ -2,4 +2,6 @@
 
 #Install shellinabox
 apt-get update
-apt-get install openssl nginx shellinabox
+apt-get install -y openssl nginx shellinabox
+
+exit 0
